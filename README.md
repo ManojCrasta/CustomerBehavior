@@ -124,7 +124,7 @@ The SQL queries are available in:
 
 Power BI was used to create an interactive dashboard for visualizing customer shopping behavior.
 
-![CustomerBehaviorDashboard](customer_behavior_dashboard.png)
+![CustomerBehaviorDashboard](Customer_Behavior_Dashboard.jpg)
 
 The dashboard focuses on:
 
